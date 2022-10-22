@@ -1,0 +1,6 @@
+/.venv
+/aug_data
+/data
+/FaceTracker.h5
+/logs
+/trial.py
