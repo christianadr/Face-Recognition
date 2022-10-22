@@ -50,4 +50,7 @@ First ever object detection project using Tensorflow, starting with Face Recogni
 **Real Time Detection using Webcam**
 *****
 
-
+#### Dependencies needed
+```
+!pip install labelme tensorflow tensorflow-gpu opencv-python matplotlib albumentations
+```
